@@ -63,7 +63,7 @@ h6 {
 }
 
 a {
-  color: #161616;
+  color: var(--text-color);
   text-decoration: none;
 }
 
