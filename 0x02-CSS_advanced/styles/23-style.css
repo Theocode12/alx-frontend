@@ -364,12 +364,8 @@ ul.row {
   display: block;
 }
 
-.social-link svg {
+.social-link > svg {
   fill: var(--text-color);
-}
-
-.social-link svg path {
-  fill: inherit;
 }
 
 .footer {
